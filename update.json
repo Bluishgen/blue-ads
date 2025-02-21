@@ -1,0 +1,8 @@
+{
+    "version": "1.1",
+    "download_url": "https://github.com/Bluishgen/blue-ads-v1.1.zip/archive/refs/heads/main.zip",
+    "last_updated": "2023-10-15",
+    "requires": "5.0",
+    "tested": "6.3",
+    "requires_php": "7.4"
+}
