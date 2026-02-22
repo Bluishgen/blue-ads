@@ -1,0 +1,5 @@
+<?php
+if (function_exists('blue_ads_display_slider')) {
+    blue_ads_display_slider();
+}
+?>
